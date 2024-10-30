@@ -1,0 +1,18 @@
+2024-Sep-06-03:01:49 : ETL Process Started
+2024-Sep-06-03:01:49 : Extraction Process Started
+2024-Sep-06-03:01:50 : Extraction Process Ended
+2024-Sep-06-03:01:50 : Transformation Process Started
+2024-Sep-06-03:01:50 : Transformation Process Ended
+2024-Sep-06-03:01:50 : Loading To CSV Process Started
+2024-Sep-06-03:01:50 : Loading To CSV Process Ended
+2024-Sep-06-03:01:50 : Database connection Started
+2024-Sep-06-03:01:50 : Loading To Database Process Started
+2024-Sep-06-03:01:50 : Loading To Database Process Ended
+2024-Sep-06-03:01:50 : Select All From Database Process Started
+2024-Sep-06-03:01:50 : Select All From Database Process Ended
+2024-Sep-06-03:01:50 : Calculate Average GBP Process Started
+2024-Sep-06-03:01:50 : Calculate Average GBP Process Ended
+2024-Sep-06-03:01:50 : Select 5 Names Process Started
+2024-Sep-06-03:01:50 : Select 5 Names Process Ended
+2024-Sep-06-03:01:50 : Database connection Ended
+2024-Sep-06-03:01:50 : ETL Process Ended
